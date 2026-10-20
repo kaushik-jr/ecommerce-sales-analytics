@@ -48,3 +48,4 @@ Run the SQL files in the `sql/` folder in numbered order (01 to 12).
 - Late orders averaged a review score of 2.27 versus 4.29 for on-time orders, so late delivery is strongly associated with lower customer satisfaction.
 - - Month-over-month growth is only meaningful from Feb 2017 onward. Early 2016 months and Sep 2018 have too little data, so their percentages (for example +21,312% in Oct 2016) are artifacts of a tiny base.
   - - The top 10 sellers (of about 3,095) generate roughly 13% of total revenue; the #1 seller alone earned about 229K.
+    - - A single-day revenue spike of about 150K on Black Friday (24 Nov 2017) is roughly 4x a normal day.
