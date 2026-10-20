@@ -3,6 +3,10 @@
 ## Goal
 Build a cloud data warehouse from the Olist Brazilian e-commerce dataset, clean and model it with SQL, and analyze sales and delivery performance.
 
+## Dashboard preview
+![Sales page](powerbi/sales_page.png)
+![Delivery and satisfaction page](powerbi/delivery_page.png)
+
 ## Tools
 Google BigQuery (sandbox), SQL, Excel, Power BI Desktop, GitHub
 
