@@ -40,3 +40,9 @@ Mart revenue reconciles exactly with staging revenue (about 13.49M). Row counts:
 
 ## How to rebuild
 Run the SQL files in the `sql/` folder in numbered order (01 to 12).
+
+## Key insights
+- Monthly revenue grew from about 120K (Jan 2017) to about 990K (Apr 2018), then levelled off through Aug 2018. Sep 2016, Dec 2016 and Sep 2018 have almost no data and are excluded from trend analysis.
+- Top category by revenue is health_beauty (about 1.26M), followed by watches_gifts (about 1.20M). watches_gifts earns that revenue from far fewer orders, so its revenue per order is much higher.
+- 6.77% of delivered orders arrived after the estimated date.
+- Late orders averaged a review score of 2.27 versus 4.29 for on-time orders, so late delivery is strongly associated with lower customer satisfaction.
