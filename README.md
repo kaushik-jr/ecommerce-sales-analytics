@@ -17,6 +17,9 @@ The raw CSV files are not stored in this repo.
 ## Architecture
 CSV files → BigQuery `raw` → `staging` (cleaned) → `mart` (star schema) → Power BI
 
+## Data model (star schema)
+![Star schema](docs/schema.png)
+
 ## Raw table row counts
 | Table | Rows loaded |
 |---|---|
